@@ -8,11 +8,11 @@ Created an automated pipeline that takes in new data, performs the appropriate t
 
 2. Extracted and transformed the wikipedia data. 
 
-    - [ETL_Clean_Wiki_Movies](https://github.com/RyanWhited/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynbb)
+    - [ETL_Clean_Wiki_Movies](https://github.com/RyanWhited/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb)
 
 3. Extracted and transformed the kaggle data.
 
-    - [ETL_Clean_Kaggle_Data](https://github.com/RyanWhited/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynbb)
+    - [ETL_Clean_Kaggle_Data](https://github.com/RyanWhited/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb)
 
 4. Added the movies_df dataframe and MovieLens rating CSV data to SQL database. 
 
